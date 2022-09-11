@@ -1,6 +1,11 @@
+# PROPOSAL PROJECT APLIKASI
+## APLIKASI ACTIVITY REMINDER
+******************************************************************
 ## Permasalahan
+* Dalam kehidupan sehari-hari pada umumnya   mahasiswa terkadang kesulitan bahkan ada beberapa orang yang lupa untuk mengatur dan menepati kegiatan hariannya khusunya sering lupa dalam mengingat tugas
 
 ## Rancangan Solusi
+* Aplikasi yang dapat membantu agenda mahasiswa sekaligus mengingatkan mahasiswa tersebut dimana pun dan kapan pun mereka berada
 
 ## Use Case
 * User (Mahasiswa, Dosen) melakukan Registrasi
