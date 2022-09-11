@@ -13,3 +13,5 @@
 * User (Mahasiswa, Dosen) dapat melihat & membuat jadwal kuliah sesuai kelas
 * User (Mahasiswa) dapat menerima informasi tugas yang diberikan dosen dalam waktu jangka panjang dan jangka pendek, serta user dapat mengatur waktu pengingat tugas itu sendiri
 * User (Mahasiswa, Dosen) dapat mengatur reminder
+
+## Struktur Data
