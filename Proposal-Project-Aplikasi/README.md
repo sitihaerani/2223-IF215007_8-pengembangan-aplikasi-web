@@ -1,4 +1,4 @@
-# PROPOSAL PROJECT APLIKASI
+# PROPOSAL PROJECT 
 ## APLIKASI ACTIVITY REMINDER
 ******************************************************************
 ## Permasalahan
@@ -15,7 +15,8 @@
 * User (Mahasiswa, Dosen) dapat mengatur reminder
 
 ## Struktur Data
-* user
+
+* Data User
 
 | Atribut  | Tipe Data | Contoh                |
 | -------- | --------- | --------------------- |
@@ -24,6 +25,24 @@
 | email    | VARCHAR   | sitihaerani@gmail.com |
 | password | VARCHAR   | shaerani              |
 | tgl_lahir| DATE TIME | 2002-02-02            |
+
+
+* Data Schedule
+
+| Atribut       | Tipe Data | Contoh       |
+| ------------- | --------- | ------------ |
+| id_schedule   | INTEGER   | 1            |
+| nama_schedule | VARCHAR   | Prak. Jarkom |
+| tanggal       | DATE TIME | 2022-09-15   |
+
+* Data Task
+
+| Atribut    | Tipe Data | Contoh                      |
+| ---------- | --------- | --------------------------- |
+| id_task    | INTEGER   | 1                           |
+| kelas      | VARCHAR   | F-Pengembangan Aplikasi Web |
+| nama_tugas | VARCHAR   | Proposal Project            |
+| catatan    | VARCHAR   | kumpulkan di GitHub         |  
 
 
 ## UI
