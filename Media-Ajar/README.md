@@ -13,5 +13,5 @@
 - Lokasi Data : https://youtu.be/VuAuZqYCg9k
 - World Wide Web : https://youtu.be/i3deEwhqmkM
 - Web Service : https://youtu.be/7MckBfM8b_s
-- Cloud Service : 
-- Teknologi Pendukung Untuk Pengembangan Website : 
+- Cloud Service : https://youtu.be/Kl1TPJuOADk
+- Teknologi Pendukung Untuk Pengembangan Website : https://youtu.be/dlJfoEk4FHQ
