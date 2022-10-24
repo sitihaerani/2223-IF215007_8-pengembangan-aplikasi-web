@@ -8,11 +8,10 @@
 * Aplikasi yang dapat membantu agenda mahasiswa sekaligus mengingatkan mahasiswa tersebut dimana pun dan kapan pun mereka berada
 
 ## Use Case
-* User (Mahasiswa, Dosen) melakukan Registrasi
-* User (Mahasiswa, Dosen) melakukan Login
-* User (Mahasiswa, Dosen) dapat melihat & membuat jadwal kuliah sesuai kelas
-* User (Mahasiswa) dapat menerima informasi tugas yang diberikan dosen dalam waktu jangka panjang dan jangka pendek, serta user dapat mengatur waktu pengingat tugas itu sendiri
-* User (Mahasiswa, Dosen) dapat mengatur reminder
+* User melakukan Registrasi
+* User melakukan Login
+* User dapat melihat schedule
+* User dapat menambah schedule dan menambah keterangan schedule
 
 ## Struktur Data
 
