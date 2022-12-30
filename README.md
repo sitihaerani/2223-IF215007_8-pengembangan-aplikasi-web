@@ -15,8 +15,6 @@ PostgreSQL/MySQL Installation
 
 DBeaver Installation & DB Connection
 
-![image](https://user-images.githubusercontent.com/112878739/210025883-71c1b26e-98fe-4c79-8ffd-1c55252cfcf4.png)
-
 
 MobaXterm Installation & SSH Connection
 
@@ -34,6 +32,9 @@ Linux Server Operation
 
 
 Nginx/Apache Web Server Installation & Operation
+
+![image](https://user-images.githubusercontent.com/112878739/210094242-184228cc-fe3c-4e63-ae3b-e9a8e5a14409.png)
+
 
 CPanel Operation
 
@@ -60,6 +61,12 @@ Domain Registration
  # CLO-0213
  
  HTML Responsive Layout with Bootstrap
+ 
+ ![image](https://user-images.githubusercontent.com/112878739/210094576-fb1fec3b-349a-4c63-8800-5cb482ab96d1.png)
+
+ 
+ ![image](https://user-images.githubusercontent.com/112878739/210094511-eac7d674-34fe-4d0d-a8d1-b78281bd34ca.png)
+
  
  Single Page App with React & React-router
  
