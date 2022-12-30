@@ -18,10 +18,18 @@ DBeaver Installation & DB Connection
 
 
 MobaXterm Installation & SSH Connection
+![image](https://user-images.githubusercontent.com/112878739/210090022-0866ca3c-945e-4b9e-b461-5e029f439cc4.png)
+
 
 NodeJS & NPM Installation, Operation & Hello world
 
+![image](https://user-images.githubusercontent.com/112878739/210093259-1dd01151-93c2-41a9-bb39-0e185df6c15d.png)
+
+
 Linux Server Operation
+
+![image](https://user-images.githubusercontent.com/112878739/210089782-773b230e-ef15-41cd-8abe-e850c698fa72.png)
+
 
 Nginx/Apache Web Server Installation & Operation
 
