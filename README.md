@@ -14,10 +14,12 @@ PHP & Composer Installation & Hello World
 PostgreSQL/MySQL Installation
 
 DBeaver Installation & DB Connection
+
 ![image](https://user-images.githubusercontent.com/112878739/210025883-71c1b26e-98fe-4c79-8ffd-1c55252cfcf4.png)
 
 
 MobaXterm Installation & SSH Connection
+
 ![image](https://user-images.githubusercontent.com/112878739/210090022-0866ca3c-945e-4b9e-b461-5e029f439cc4.png)
 
 
