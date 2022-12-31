@@ -40,6 +40,7 @@ ____________________________________________________
 
 * Nginx/Apache Web Server Installation & Operation
 
+![image](https://user-images.githubusercontent.com/112878739/210126548-5368f53f-424a-4b4a-a08f-f6272b17e9f9.png)
 
 * CPanel Operation
 
