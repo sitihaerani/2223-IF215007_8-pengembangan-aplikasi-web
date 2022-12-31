@@ -40,10 +40,12 @@ Linux Server Operation
 
 Nginx/Apache Web Server Installation & Operation
 
-![image](https://user-images.githubusercontent.com/112878739/210094242-184228cc-fe3c-4e63-ae3b-e9a8e5a14409.png)
 
 
 CPanel Operation
+
+![image](https://user-images.githubusercontent.com/112878739/210121236-8b587dc9-5782-4be3-ac60-d9890da9d8d7.png)
+
 
 Domain Registration
 
