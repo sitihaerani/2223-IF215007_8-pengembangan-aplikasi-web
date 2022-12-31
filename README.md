@@ -85,6 +85,9 @@ Domain Registration
  
  Single Page App with React & React-router
  
+ ![image](https://user-images.githubusercontent.com/112878739/210121435-cfaf1475-a01e-4a26-bbbb-49b8a07faf10.png)
+
+ 
  ![image](https://user-images.githubusercontent.com/112878739/210120820-5c053293-0a5a-4c06-a035-74fcab9fe10f.png)
  
  Dynamic Web Page using Laravel
