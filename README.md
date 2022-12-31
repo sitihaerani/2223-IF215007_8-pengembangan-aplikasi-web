@@ -57,6 +57,8 @@ Domain Registration
  
  Javascript Data Transformation
  
+ ![image](https://user-images.githubusercontent.com/112878739/210121256-6d8b4622-4c46-4a3b-9b10-eb52c193009d.png)
+ 
  Browser API - Event Handling, Local Storage, Element manipulation	
  
  HTTP GET & POST using Form Action and Fetch API
