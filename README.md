@@ -51,6 +51,8 @@ Domain Registration
 
  HTML Responsive Layout with Media Query & Flexbox
  
+![image](https://user-images.githubusercontent.com/112878739/210120460-4234fb8f-bf4f-4080-be52-5f19c9c05feb.png)
+ 
  Javascript Data Transformation
  
  Browser API - Event Handling, Local Storage, Element manipulation	
