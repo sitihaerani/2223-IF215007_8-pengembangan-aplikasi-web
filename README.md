@@ -69,6 +69,8 @@ Domain Registration
  
  OOP-Based PHP Project Using Composer
  
+ ![image](https://user-images.githubusercontent.com/112878739/210121412-d9db3b1b-1938-4b01-9df7-542173185713.png)
+ 
  Deploy PHP Project to Cpanel
  
  # CLO-0213
