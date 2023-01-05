@@ -57,7 +57,7 @@ ____________________________________________________
  
 * Javascript Data Transformation
 
-![image](https://user-images.githubusercontent.com/112878739/210897989-fb7c3cc5-8026-4618-b18d-59e3f8d232ed.png)
+![209462781-80084f13-cad4-458d-be5b-97ada30bb641 (2)](https://user-images.githubusercontent.com/112878739/210898152-5fdddc44-1ed5-4f3d-b4d9-b6d283f72ff2.png)
  
 * Browser API - Event Handling, Local Storage, Element manipulation	
  
@@ -66,12 +66,18 @@ ____________________________________________________
 * PHP DB - Dynamic Web Page
  
 * PHP DB - Web Service
- 
+
+![210047650-4244a674-04a7-4a27-aeb3-7abf2b9901b2 (2)](https://user-images.githubusercontent.com/112878739/210898366-607cedde-7ff5-4989-9fd5-a7a93d101f6e.png)
+
+![210047666-6d0f1a9c-a9e4-42eb-90ab-01eb3728b516 (2)](https://user-images.githubusercontent.com/112878739/210898500-3b723dbe-ad93-454e-a942-60995fbd2ea5.png)
+
 * OOP-Based PHP Project Using Composer
  
  ![image](https://user-images.githubusercontent.com/112878739/210121412-d9db3b1b-1938-4b01-9df7-542173185713.png)
  
 * Deploy PHP Project to Cpanel
+
+![x9q4dlh27gsbly93w79x (2)](https://user-images.githubusercontent.com/112878739/210898962-be2934dd-d253-4ce5-9941-a2b4c9f6d9f8.jpg)
  
  # CLO-0213
  
@@ -92,6 +98,8 @@ ____________________________________________________
 * Dynamic Web Page using Laravel
  
 * Web Service using Slim
+
+![210132640-6ab35bbc-4380-4a72-9860-fd28bc5cd25e](https://user-images.githubusercontent.com/112878739/210899094-0a44c027-9ebe-4630-ad2f-a3c5d8898715.jpg)
  
 * News Site using Wordpress
  
